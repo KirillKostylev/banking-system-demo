@@ -1,0 +1,12 @@
+{
+  "2f8103a4-d81a-475e-8410-d4572805e7f6": {
+    "id": "2f8103a4-d81a-475e-8410-d4572805e7f6",
+    "individualFee": 0.1,
+    "legalFee": 0.2
+  },
+  "9c3b0775-091d-4757-99d2-5ec3da5dfb0d": {
+    "id": "9c3b0775-091d-4757-99d2-5ec3da5dfb0d",
+    "individualFee": 10,
+    "legalFee": 25
+  }
+}

@@ -1,7 +1,9 @@
 package com.intexsoft.demo;
 
+import com.intexsoft.demo.core.ApplicationContext;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        ApplicationContext.run();
     }
 }

@@ -1,0 +1,30 @@
+{
+  "b0e048ba-4297-4f71-936a-ce03925cffda": {
+    "id": "b0e048ba-4297-4f71-936a-ce03925cffda",
+    "clientId": "ccfe62d6-553a-486b-b3b6-d56511814e31",
+    "bankId": "2f8103a4-d81a-475e-8410-d4572805e7f6",
+    "currency": "BYN",
+    "amount": 27.5
+  },
+  "46b64a87-7129-4c4d-98d3-7fa88d1d4374": {
+    "id": "46b64a87-7129-4c4d-98d3-7fa88d1d4374",
+    "clientId": "7810d1f9-493b-4135-a144-23df9919442f",
+    "bankId": "2f8103a4-d81a-475e-8410-d4572805e7f6",
+    "currency": "EUR",
+    "amount": 0.0
+  },
+  "dff59a94-3f95-4b1d-a5e0-74a3ddaff888": {
+    "id": "dff59a94-3f95-4b1d-a5e0-74a3ddaff888",
+    "clientId": "ccfe62d6-553a-486b-b3b6-d56511814e31",
+    "bankId": "9c3b0775-091d-4757-99d2-5ec3da5dfb0d",
+    "currency": "BYN",
+    "amount": 20
+  },
+  "9dd941ce-e781-40ef-ac5b-42adfad3e4a3": {
+    "id": "9dd941ce-e781-40ef-ac5b-42adfad3e4a3",
+    "clientId": "ccfe62d6-553a-486b-b3b6-d56511814e31",
+    "bankId": "2f8103a4-d81a-475e-8410-d4572805e7f6",
+    "currency": "USD",
+    "amount": 10.0
+  }
+}
